@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!-- <!DOCTYPE adtf:manifest SYSTEM "manifest.dtd"> -->
+<adtf:manifest xmlns:adtf="adtf">
+    <info>
+        <brief>HTWK World Service (DEBUG)</brief>
+        <detailed>HTWK World Service (DEBUG)</detailed>
+    </info>
+
+    <plugins>
+        <plugin url="htwk_world_service.srv" optional="false"/>
+    </plugins>
+
+    <services>
+        <service alias="" objectid="htwk.world_service" interfaceid="htwk.i_world_service" runlevel="system" optional="false"/>
+    </services>
+</adtf:manifest>

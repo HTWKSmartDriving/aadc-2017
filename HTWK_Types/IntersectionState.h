@@ -1,0 +1,18 @@
+//
+// Created by fabian on 18.09.17.
+//
+
+#ifndef AADC_USER_INTERSECTIONSTATE_H
+#define AADC_USER_INTERSECTIONSTATE_H
+
+enum class IntersectionState {
+    ON_ROAD = 0,
+    NEARING_HAVE_WAY = 1,
+    NEARING_GIVE_WAY = 2,
+    NEARING_FULL_STOP = 3,
+    NEARING_GENERIC = 4,
+    STOP_NOW = 5,
+    ON_INTERSECTION = 6
+};
+
+#endif //AADC_USER_INTERSECTIONSTATE_H

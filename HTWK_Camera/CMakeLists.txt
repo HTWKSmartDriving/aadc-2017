@@ -1,0 +1,3 @@
+#add_subdirectory(HTWK_Realsense)
+add_subdirectory(HTWK_Basler)
+add_subdirectory(HTWK_PointClouds)

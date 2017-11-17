@@ -1,0 +1,7 @@
+ThriftInterface
+cpp
+env
+model
+*.pyc
+__init__.py
+python_env

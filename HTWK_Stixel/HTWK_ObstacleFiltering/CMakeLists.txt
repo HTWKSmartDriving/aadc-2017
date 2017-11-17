@@ -1,0 +1,3 @@
+#add_subdirectory(HTWK_PreObstacleFiltering)
+add_subdirectory(HTWK_PostObstacleFiltering)
+

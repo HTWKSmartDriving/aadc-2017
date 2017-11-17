@@ -1,0 +1,9 @@
+add_subdirectory(HTWK_CompositeNode)
+add_subdirectory(HTWK_Selector)
+add_subdirectory(HTWK_Compositor_Sequence)
+
+add_subdirectory(HTWK_DecoratorNode)
+add_subdirectory(HTWK_Decorator_Inverter)
+
+add_subdirectory(HTWK_LeafNode)
+add_subdirectory(HTWK_DebugNode)
